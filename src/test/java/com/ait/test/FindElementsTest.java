@@ -144,7 +144,9 @@ public class FindElementsTest {
     @Test
     public void findElementByXpath(){
         //     //some_tag[@attribute='value']
+
         //     //some_tag[1]
+
         //     //some_tag[text()='LosAngeles']
     }
 }
